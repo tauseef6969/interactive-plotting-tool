@@ -6,11 +6,9 @@ This is a Python-based tool for creating interactive data visualizations using t
 
 To use this tool, you will need to have Python 3.x installed on your system. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
-Once you have installed Python, you can install the required dependencies by running the following command in your terminal:
+Once you have installed Python, you can install the required dependencies.
 
-pip install -r requirements.txt
-
-This will install the necessary packages, including Plotly and Pandas.
+Install the necessary packages, including Plotly and Pandas.
 
 ## Usage
 
